@@ -1,0 +1,8 @@
+# Ignore .devcontainer directory
+.devcontainer/
+
+# Ignore .vscode directory
+.vscode/
+
+# Ignore build directory
+build/
